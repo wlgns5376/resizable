@@ -9,6 +9,6 @@ include :
 ```
 
 usage :
-'''javascript
+```javascript
 $('.img').resizable();
-'''
+```
