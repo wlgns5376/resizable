@@ -12,3 +12,4 @@ usage :
 ```javascript
 $('.img').resizable();
 ```
+[demo](http://wlgns5376.github.io/resizable/demo1.html)
