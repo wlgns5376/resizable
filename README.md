@@ -13,4 +13,5 @@ usage :
 $('.img').resizable();
 ```
 [demo - jquery.resizable](http://wlgns5376.github.io/resizable/demo1.html)
+
 [demo - resizeable](http://wlgns5376.github.io/resizable/demo2.html)
